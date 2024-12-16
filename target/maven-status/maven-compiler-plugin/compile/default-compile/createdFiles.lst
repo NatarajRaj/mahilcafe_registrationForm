@@ -1,0 +1,14 @@
+com\userInformation\registrationForm\repo\UserService.class
+com\userInformation\registrationForm\repo\UserRepository.class
+com\userInformation\registrationForm\controller\AuthController.class
+com\userInformation\registrationForm\controller\Utility.class
+com\userInformation\registrationForm\SpringSecurity.class
+com\userInformation\registrationForm\CustomUserDetailsService.class
+com\userInformation\registrationForm\DTO\User.class
+com\userInformation\registrationForm\RegistrationFormApplication.class
+com\userInformation\registrationForm\repo\RoleRepository.class
+com\userInformation\registrationForm\DTO\UserDTO.class
+com\userInformation\registrationForm\UserImplService.class
+com\userInformation\registrationForm\EmailService.class
+com\userInformation\registrationForm\DTO\Role.class
+com\userInformation\registrationForm\CustomerNotFoundException.class

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10fe2840-a65d-4d3a-b844-07199bb4a660" name="Changes" comment="&quot;forgot_password logic implemented&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NatarajRaj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:mahil-tech-academy/mahilcafe.git&quot;,
+    &quot;accountId&quot;: &quot;f2619e0c-9d3f-4d7d-9f2d-0afc0f2fcea4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2q98WsVZV9DmwsT5bqLe6sBjpho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RegistrationFormApplication.executor": "Run",
+    "Maven.registrationForm [clean,install,compile].executor": "Run",
+    "Maven.registrationForm [clean,install].executor": "Run",
+    "Maven.registrationForm [clean,pac].executor": "Run",
+    "Maven.registrationForm [clean,package].executor": "Run",
+    "Maven.registrationForm [clean].executor": "Run",
+    "Maven.registrationForm [compile,package].executor": "Run",
+    "Maven.registrationForm [compile].executor": "Run",
+    "Maven.registrationForm [install,compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.RegistrationFormApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Springboot/registrationForm/src/main/resources/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reactor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.userInformation.registrationForm.controller" />
+      <recent name="com.userInformation.registrationForm" />
+      <recent name="com.userInformation.registrationForm.DTO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Springboot\registrationForm\src\main\resources\static" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\images" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\templates" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\static\images" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Springboot\registrationForm\src\main\resources" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\images" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\templates" />
+      <recent name="D:\Springboot\registrationForm\src\main\resources\static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.userInformation.registrationForm" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn clean install compile" />
+      <command value="mvn clean" />
+      <command value="mvn install compile" />
+      <command value="mvn clean pac" />
+      <command value="mvn clean package" />
+      <command value="mvn clean install" />
+      <command value="mvn compile package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RegistrationFormApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="registrationForm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.userInformation.registrationForm.RegistrationFormApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.userInformation.registrationForm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RegistrationFormApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10fe2840-a65d-4d3a-b844-07199bb4a660" name="Changes" comment="" />
+      <created>1734063467482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734063467482</updated>
+      <workItem from="1734063468913" duration="720000" />
+      <workItem from="1734064228595" duration="291000" />
+      <workItem from="1734064723975" duration="32705000" />
+      <workItem from="1734150161315" duration="15988000" />
+      <workItem from="1734173785587" duration="12531000" />
+      <workItem from="1734234975308" duration="2627000" />
+      <workItem from="1734237817250" duration="15231000" />
+      <workItem from="1734320372851" duration="3427000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;forgot_password logic implemented&quot;">
+      <option name="closed" value="true" />
+      <created>1734322816703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734322816703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;forgot_password logic implemented&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;forgot_password logic implemented&quot;" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
